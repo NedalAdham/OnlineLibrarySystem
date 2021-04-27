@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1608931879 source:e:\studying\2\oop\project\onlinelibrarysystem\main.cpp
+	<iostream>
+	"User.h"
+	"Book.h"
+	"UserList.h"
+	"BookList.h"
+
+1608926114 e:\studying\2\oop\project\onlinelibrarysystem\user.h
+	<iostream>
+	<stdlib.h>
+
+1608921731 source:e:\studying\2\oop\project\onlinelibrarysystem\user.cpp
+	<cstring>
+	<iostream>
+	"user.h"
+	<cstdlib>
+
+1608932533 source:e:\studying\2\oop\project\onlinelibrarysystem\book.cpp
+	"Book.h"
+	<iostream>
+	<stdlib.h>
+
+1608921798 e:\studying\2\oop\project\onlinelibrarysystem\book.h
+	<cstring>
+	<iostream>
+	"user.h"
+
+1608932557 e:\studying\2\oop\project\onlinelibrarysystem\userlist.h
+	"User.h"
+	<iostream>
+	<stdlib.h>
+
+1608932557 source:e:\studying\2\oop\project\onlinelibrarysystem\userlist.cpp
+	"UserList.h"
+	"User.h"
+	<iostream>
+	<stdlib.h>
+
+1608932557 e:\studying\2\oop\project\onlinelibrarysystem\booklist.h
+	"Book.h"
+	<iostream>
+	<stdlib.h>
+
+1608932557 source:e:\studying\2\oop\project\onlinelibrarysystem\booklist.cpp
+	<iostream>
+	<stdlib.h>
+	"BookList.h"
+
